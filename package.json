@@ -1,0 +1,24 @@
+{
+  "name": "ezcustomevents",
+  "version": "1.0.0",
+  "description": "Module for easy use of frontend custom events",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jonnunezalvarez/ezcustomevents.git"
+  },
+  "keywords": [
+    "events",
+    "custom",
+    "easy"
+  ],
+  "author": "Jon Nuñez Alvarez <jon.nunez.alvarez@gmx.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonnunezalvarez/ezcustomevents/issues"
+  },
+  "homepage": "https://github.com/jonnunezalvarez/ezcustomevents#readme"
+}

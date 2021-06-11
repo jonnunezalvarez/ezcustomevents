@@ -1,0 +1,1 @@
+This is a module you can use for an easy use of custom events in the browser.
